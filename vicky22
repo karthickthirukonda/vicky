@@ -3,3 +3,7 @@ ssh -i "vik2.pem" ec2-user@ec2-3-27-28-49.ap-southeast-2.compute.amazonaws.com
 git remote add origin https://github.com/karthickthirukonda/vicky.git
 git branch -M main
 git push -u origin main
+Code syntax refers to the set of rules that defines how a programming or markup language must be structured. It dictates the arrangement of keywords,
+symbols, and punctuation. If code violates these rules, it will result in an error and fail to execute
+today i am not well
+today good day
